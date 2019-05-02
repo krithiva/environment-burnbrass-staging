@@ -10,6 +10,9 @@ dependencies:
 - name: go-repo-demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: java-jx-test1
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: node-demo-ict
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
